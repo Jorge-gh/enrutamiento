@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router'
-import Header from './components/header'
+import Header from './components/Header'
 import Inicio from './pages/Inicio'
 import Contactos from './pages/Contactos'
 
